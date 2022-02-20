@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>iLemmy - Home</title>
+	<link rel="stylesheet" href="">
+	<link rel="icon" href="favicon (2).ico" type="image/x-icon/">
+</head>
+<body>
+	<header height="62px">
+		<center><a id="Logo" href="Home.html"><img src="ilemmycroppedlogo.png" alt="iLemmy Logo" width="289px" height="71px"></a></center>
+		<center><li><a class="btn1" href="Home.html">About</a></li></center>
+		<center><li><a class="btn1" href="Home.html">Links</a></li></center>
+		<hr>
